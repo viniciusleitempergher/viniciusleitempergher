@@ -2,7 +2,7 @@
 
 <h3> Sobre </h3>
 
-- ⚡ Estudei JavaScript, ReactJS, ReactNative, Expo, Java, MySQL, HTML e CSS.
-- 🌱 Atualmente estudando NodeJS, PostgreSQL.
+- ⚡ Tecnologias que uso: MySQL, Postgres, Sequelize, Express, ReactJS e ReactNative.
+- 🌱 Atualmente estudando: SpringBoot e Hibernate.
 - 🎸 Gosto de guitarra... e rock!
 - 👨‍💻 Cursando o entra21 e o técnico em TI do SENAI.
