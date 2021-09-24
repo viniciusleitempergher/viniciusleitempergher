@@ -2,7 +2,7 @@
 
 <h2 align='center'> Sobre </h2>
 
-<p>🌱 Atualmente estudando: SpringBoot e Hibernate.</p>
+<p>🌱 Atualmente estudando: Docker.</p>
 <p>🎸 Gosto de guitarra... e rock!</p>
 <p>👨‍💻 Cursando o entra21 e o técnico em TI do SENAI.</p>
 
