@@ -6,9 +6,9 @@
 
 <h2 align='center'> Sobre </h2>
 
-<p>🌱 Atualmente estudando: Docker.</p>
+<p>🌱 Atualmente estudando: Kubernetes com Docker e Spring Boot!</p>
 <p>🎸 Gosto de guitarra... e rock!</p>
-<p>👨‍💻 Cursando o entra21 e o técnico em TI do SENAI.</p>
+<p>👨‍💻 Técnico em Informática</p>
 
   [![vini's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusleitempergher&theme=blue-green)](https://github.com/viniciusleitempergher/github-readme-stats)
 
